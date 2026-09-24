@@ -1,0 +1,6 @@
+akshare
+pandas
+openpyxl
+requests
+lxml
+numpy
